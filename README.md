@@ -1,6 +1,6 @@
 # project Internet of Things 2021 - Université Sorbonne Paris Nord
 
-# Nom Project:  Semelle Intelligente
+## Nom Project:  Semelle Intelligente
 
 Ce projet a été réalisé par :
 
