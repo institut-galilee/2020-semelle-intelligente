@@ -5,7 +5,7 @@
 Ce projet a été réalisé par :
 
    - Ayoub HAYARI : ayoub.hayari98@gmail.com (11804843);
-   - Sambou keita : sb.keita99@gmail.com (11707585).
+   - Sambou KEITA : sb.keita99@gmail.com (11707585).
     
     
 
@@ -16,4 +16,4 @@ Ce projet a été réalisé par :
 
 [Link to Source code!](https://github.com/institut-galilee/2020-semelle-intelligente/tree/master/src)
 
-[Link to Youtube video! (Updated)](https://youtu.be/9NmV4ul7Rio)
+[Link to Youtube video!](https://youtu.be/9NmV4ul7Rio)
