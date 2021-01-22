@@ -8,7 +8,9 @@ Ce projet a été réalisé par :
 
 
 
-[Link to Report!](https://github.com/institut-galilee/2020-legendary-enigma/tree/master/doc)
+[Link to Report!](https://github.com/institut-galilee/2020-semelle-intelligente/blob/master/doc/Report.pdf)
+
+[Link to Doc!](https://github.com/institut-galilee/2020-semelle-intelligente/tree/master/doc)
 
 [Link to Source code!](https://github.com/institut-galilee/2020-semelle-intelligente/tree/master/src)
 
