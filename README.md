@@ -9,6 +9,13 @@ Ce projet a été réalisé par :
     
     
 
+## Déscription du projet
+
+Le projet semelle Intelligente est un système évolué de la balance
+baropodométrique , en effet avec le module Arduino notre semelle intelligente
+a pour but de d’enregistrer la pression exercée par la jambe gauche et droite.
+Afin de vérifier si le patient présente une inégalité de longueur entre les deux
+jambes et ainsi prévenir d’éventuelle problème de posture ou douleur.
 
 [Link to Report!](https://github.com/institut-galilee/2020-semelle-intelligente/blob/master/doc/Report.pdf)
 
