@@ -7,5 +7,6 @@ Ce projet a été réalisé par :
 
 Video: https://youtu.be/9NmV4ul7Rio;
 
-Report et Slide Soutenance dans doc;
+Report et Slide Soutenance dans doc
+
 Code dans src;
